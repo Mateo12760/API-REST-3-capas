@@ -1,0 +1,12 @@
+{
+  "name": "api-rest-3-capas",
+  "version": "1.0.0",
+  "description": "API REST simple con arquitectura de 3 capas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
